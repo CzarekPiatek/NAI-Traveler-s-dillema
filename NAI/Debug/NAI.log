@@ -1,0 +1,3 @@
+﻿  NAI.cpp
+c:\users\czarek\source\repos\nai\nai\nai.cpp(33): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  NAI.vcxproj -> C:\Users\Czarek\source\repos\NAI\Debug\NAI.exe
